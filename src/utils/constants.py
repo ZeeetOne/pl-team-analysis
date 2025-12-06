@@ -1,0 +1,23 @@
+# Premier League Teams
+TEAMS = [
+    "Arsenal",
+    "Aston Villa",
+    "AFC Bournemouth",
+    "Brentford",
+    "Brighton & Hove Albion",
+    "Chelsea",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Ipswich Town",
+    "Leicester City",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    "Newcastle United",
+    "Nottingham Forest",
+    "Southampton",
+    "Tottenham Hotspur",
+    "West Ham United",
+    "Wolverhampton Wanderers",
+]
