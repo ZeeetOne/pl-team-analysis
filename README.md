@@ -14,12 +14,6 @@ A Streamlit dashboard for analyzing Premier League team performance with match-l
 - **Possession & Passing**: Ball possession, pass accuracy, long balls, crosses, touches in box
 - **Match Explorer**: Browse individual match statistics
 
-## Screenshots
-
-| Season Overview | Attacking Analysis |
-|-----------------|-------------------|
-| Cumulative points, form, standings | xG trends, shot analysis, radar charts |
-
 ## Installation
 
 ```bash
